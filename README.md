@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Chandini
 - 👀 I’m interested in Software developing
-- 🌱 I’m currently learning ML python
+- 🌱 I’m currently learning, Machine Learning in Pyhton
 - 💞️ I’m looking to collaborate on Open Source Contribution
 - 📫 How to reach me chandinipydi23@gmail.com
 
