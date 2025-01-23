@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pydi.Chandini
+- 👋 Hi, I’m Chandini
 - 👀 I’m interested in Software developing
 - 🌱 I’m currently learning ML python
 - 💞️ I’m looking to collaborate on Open Source Contribution
